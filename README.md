@@ -2,7 +2,7 @@
 
 > The Collatz Conjecture (or the "3n+1" problem) is one of the most famous unsolved mysteries in mathematics.
 
-![# The Simplest Math Problem No One Can Solve - Collatz Conjecture](https://www.youtube.com/watch?v=094y1Z2wpJg)
+[![Collatz Conjecture Video](https://img.youtube.com/vi/094y1Z2wpJg/0.jpg)](https://www.youtube.com/watch?v=094y1Z2wpJg)
 
 It's a simple set of rules for any positive Integer:
 
